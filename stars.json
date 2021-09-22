@@ -1,9 +1,9 @@
 [
   {
     "full_name": "praveenscience/Hacktoberfest-Project-Ideas",
-    "stargazers_count": 162,
-    "open_issues_count": 4,
-    "forks_count": 125
+    "stargazers_count": 172,
+    "open_issues_count": 7,
+    "forks_count": 129
   },
   {
     "full_name": "abdamah/SpringBoot2SecurityJwt",
@@ -31,19 +31,19 @@
   },
   {
     "full_name": "gaelgthomas/prisma-sqlite-example",
-    "stargazers_count": 2,
+    "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "microsoft/powerbi-client-angular",
     "stargazers_count": 27,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 7
   },
   {
     "full_name": "abuanwar072/Flutter-Custom-Animation-Grocery-App",
-    "stargazers_count": 110,
+    "stargazers_count": 111,
     "open_issues_count": 0,
     "forks_count": 42
   },
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "microsoft/fluentui",
-    "stargazers_count": 12159,
+    "stargazers_count": 12174,
     "open_issues_count": 1026,
     "forks_count": 1996
   },
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "ibywaks/cookbook",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -115,14 +115,14 @@
   },
   {
     "full_name": "mhmzdev/DevFolio",
-    "stargazers_count": 249,
+    "stargazers_count": 251,
     "open_issues_count": 2,
-    "forks_count": 91
+    "forks_count": 92
   },
   {
     "full_name": "matteobruni/tsparticles",
-    "stargazers_count": 2318,
-    "open_issues_count": 16,
+    "stargazers_count": 2323,
+    "open_issues_count": 14,
     "forks_count": 228
   },
   {
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "bobangajicsm/ng-video-games-db",
-    "stargazers_count": 38,
+    "stargazers_count": 39,
     "open_issues_count": 0,
-    "forks_count": 79
+    "forks_count": 83
   },
   {
     "full_name": "adil-Pathan/ionic-tk-social-network",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "chandrikadeb7/Face-Mask-Detection",
-    "stargazers_count": 995,
+    "stargazers_count": 1003,
     "open_issues_count": 14,
     "forks_count": 576
   },
   {
     "full_name": "drwpow/openapi-typescript",
-    "stargazers_count": 1163,
-    "open_issues_count": 42,
+    "stargazers_count": 1173,
+    "open_issues_count": 43,
     "forks_count": 112
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "full_name": "praveenscience/Hacktoberfest-Project-Ideas",
-    "stargazers_count": 336,
+    "stargazers_count": 337,
     "open_issues_count": 102,
     "forks_count": 254
   },
@@ -33,19 +33,19 @@
     "full_name": "gaelgthomas/prisma-sqlite-example",
     "stargazers_count": 9,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "microsoft/powerbi-client-angular",
-    "stargazers_count": 53,
+    "stargazers_count": 54,
     "open_issues_count": 10,
     "forks_count": 20
   },
   {
     "full_name": "abuanwar072/Flutter-Custom-Animation-Grocery-App",
-    "stargazers_count": 141,
+    "stargazers_count": 142,
     "open_issues_count": 0,
-    "forks_count": 56
+    "forks_count": 57
   },
   {
     "full_name": "piyalidas10/piyalidas10.github.io",
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "microsoft/fluentui",
-    "stargazers_count": 13041,
-    "open_issues_count": 816,
-    "forks_count": 2153
+    "stargazers_count": 13061,
+    "open_issues_count": 805,
+    "forks_count": 2155
   },
   {
     "full_name": "SufiaAshraf/UserAuth",
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "ibywaks/cookbook",
-    "stargazers_count": 37,
+    "stargazers_count": 38,
     "open_issues_count": 2,
     "forks_count": 13
   },
@@ -115,15 +115,15 @@
   },
   {
     "full_name": "mhmzdev/DevFolio",
-    "stargazers_count": 313,
+    "stargazers_count": 314,
     "open_issues_count": 4,
     "forks_count": 125
   },
   {
     "full_name": "matteobruni/tsparticles",
-    "stargazers_count": 3056,
-    "open_issues_count": 36,
-    "forks_count": 365
+    "stargazers_count": 3121,
+    "open_issues_count": 34,
+    "forks_count": 371
   },
   {
     "full_name": "ionic-elements/crypto-starter-ionic",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "bobangajicsm/ng-video-games-db",
-    "stargazers_count": 74,
+    "stargazers_count": 75,
     "open_issues_count": 0,
-    "forks_count": 144
+    "forks_count": 146
   },
   {
     "full_name": "adil-Pathan/ionic-tk-social-network",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "chandrikadeb7/Face-Mask-Detection",
-    "stargazers_count": 1221,
+    "stargazers_count": 1224,
     "open_issues_count": 15,
-    "forks_count": 698
+    "forks_count": 699
   },
   {
     "full_name": "drwpow/openapi-typescript",
-    "stargazers_count": 1629,
-    "open_issues_count": 32,
+    "stargazers_count": 1640,
+    "open_issues_count": 30,
     "forks_count": 141
   }
 ]

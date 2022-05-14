@@ -1,7 +1,7 @@
 [
   {
     "full_name": "praveenscience/Hacktoberfest-Project-Ideas",
-    "stargazers_count": 350,
+    "stargazers_count": 352,
     "open_issues_count": 102,
     "forks_count": 257
   },
@@ -39,11 +39,11 @@
     "full_name": "microsoft/powerbi-client-angular",
     "stargazers_count": 60,
     "open_issues_count": 12,
-    "forks_count": 24
+    "forks_count": 25
   },
   {
     "full_name": "abuanwar072/Flutter-Custom-Animation-Grocery-App",
-    "stargazers_count": 145,
+    "stargazers_count": 146,
     "open_issues_count": 0,
     "forks_count": 57
   },
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "microsoft/fluentui",
-    "stargazers_count": 13289,
-    "open_issues_count": 774,
-    "forks_count": 2185
+    "stargazers_count": 13303,
+    "open_issues_count": 783,
+    "forks_count": 2187
   },
   {
     "full_name": "SufiaAshraf/UserAuth",
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "ibywaks/cookbook",
-    "stargazers_count": 43,
+    "stargazers_count": 45,
     "open_issues_count": 2,
     "forks_count": 16
   },
@@ -115,14 +115,14 @@
   },
   {
     "full_name": "mhmzdev/DevFolio",
-    "stargazers_count": 320,
+    "stargazers_count": 321,
     "open_issues_count": 4,
     "forks_count": 130
   },
   {
     "full_name": "matteobruni/tsparticles",
-    "stargazers_count": 3270,
-    "open_issues_count": 30,
+    "stargazers_count": 3279,
+    "open_issues_count": 27,
     "forks_count": 387
   },
   {
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "chandrikadeb7/Face-Mask-Detection",
-    "stargazers_count": 1258,
+    "stargazers_count": 1260,
     "open_issues_count": 16,
-    "forks_count": 712
+    "forks_count": 711
   },
   {
     "full_name": "drwpow/openapi-typescript",
-    "stargazers_count": 1741,
+    "stargazers_count": 1742,
     "open_issues_count": 39,
-    "forks_count": 150
+    "forks_count": 152
   }
 ]
